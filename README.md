@@ -82,10 +82,4 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/YoKYa/YoKYa/output/snake.svg" alt="Snake animation" />
-
-###
